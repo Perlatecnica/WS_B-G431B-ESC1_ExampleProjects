@@ -1,0 +1,10 @@
+10:23:20 **** Build of configuration Debug for project STM32G431B_02_CANsniffer ****
+make -j32 all 
+arm-none-eabi-size  STM32G431B_02_CANsniffer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  19788	     92	   2156	  22036	   5614	STM32G431B_02_CANsniffer.elf
+Finished building: default.size.stdout
+ 
+
+10:23:21 Build Finished. 0 errors, 0 warnings. (took 382ms)
+
